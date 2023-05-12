@@ -10,6 +10,21 @@
         margin-top: 215px;
         background-color: black;
     }
+    .nav-link{
+        display: flex;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        /* bottom: 3rem; */
+        color: aliceblue;
+        }
+        .nav-link a{
+        text-decoration: none;
+        padding: 10px;
+        color: #F1EFEF;
+        }
     form{
         width: 300px;
         margin-left: 20px;
@@ -42,3 +57,4 @@
     h1{
         justify-content: center;
     }
+   

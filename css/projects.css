@@ -22,3 +22,9 @@ color: rgb(218, 208, 208);
 .card{
     margin: 2rem;
 }
+/* @media screen and (max-width:700) {
+ .card{
+   
+ }   
+} */
+

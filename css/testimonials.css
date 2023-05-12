@@ -40,3 +40,9 @@
     color: white;
     transform: rotateY(180deg);
     }
+
+@media (width <= 700px) {
+    .flex-test{
+        flex-direction: column;
+    }    
+}
